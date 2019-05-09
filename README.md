@@ -1,8 +1,6 @@
 ## SpykeTorch could reach 96.89% acc on MNIST. 
-This is a good attempt on the training of SNN with pure STDP, even though there is still a trick on the weights search tuning. 
-(thomas)
 
-
+This is a good attempt on the training of SNN with pure STDP, even though there is still a trick on the weights search tuning. However, the constructed convolutional layer in this paper may the main contribution to the accuracy which is also usually considered powerful on the featuer detection in ANNs. (thomas)
 
 Original introduction about the app is listed here: 
 High-speed simulator of convolutional spiking neural networks with at most one spike per neuron.
